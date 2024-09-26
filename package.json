@@ -1,0 +1,17 @@
+{
+  "name": "generate-my-app",
+  "version": "1.0.0",
+  "description": "A CLI to generate my app from GitHub repository",
+  "main": "index.js",
+  "bin": {
+    "generate-my-app": "./bin/generate-my-app.js"
+  },
+  "dependencies": {},
+  "keywords": [
+    "npx",
+    "cli",
+    "app"
+  ],
+  "author": "SHUBHAM KUMAR",
+  "license": "MIT"
+}
